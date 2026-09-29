@@ -8,7 +8,7 @@ $featured = getFeaturedProducts();
 $popular = getPopularProducts();
 ?>
 
-ajay
+ajay 123
 
 <section class="hero">
     <div class="hero-slide active" style="background-image: url('assets/images/slide1.jpg');"></div>
